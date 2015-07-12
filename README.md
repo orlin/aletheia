@@ -1,10 +1,8 @@
-# chremachronos
+# aletheia - ἀλήθεια
 
-- χρήμα - money
-- χρόνος - time
+Unconcealing a timeline that is conducive to the business of astrology...
 
-A timeline that is conducive to the business of astrology...
+## Unlicense
 
-## License
-
-[MIT](http://orlin.mit-license.org)
+This is free and unencumbered public domain software.
+For more information, see [UNLICENSE](http://unlicense.org).
